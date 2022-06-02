@@ -33,9 +33,3 @@
 </p>
 
 ---
-
-<h3 align="center">:bar_chart: Stats</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doronyitz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
