@@ -1,7 +1,7 @@
 <h3 align="center">:zap: Intro</h3>
 <p align="center">
   Hi, I'm Doron. I'm a full stack developer 👨🏻‍💻.
-  <br> My day to day work revolves around building microservices for complex systems that handle a wide range of problems as well as creating impressive websites along with designers team and deploying them to production. I'm able to adapt to different hats depending of project's requirements. I always like to learn new things from others as much as helping other solve their problems.
+  <br> My day to day work revolves around building microservices for complex systems that handle a wide range of problems as well as creating visually appealing websites along with designers team and deploying them to production. I'm able to adapt to different hats depending of project's requirements. I always like to learn new things from others as much as helping other solve their problems.
 </p>
 
 ---
